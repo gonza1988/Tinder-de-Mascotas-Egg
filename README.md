@@ -31,11 +31,11 @@
 - MySQL Driver
 - Librepdf
 
-<br>
-<p align="center" >
-     <img width="300" heigth="300" src="src\main\resources\static\img\Tinder video.tscproj">
-</p>
-<br>
+Pantalla de inicio:
+<img src="src\main\resources\static\img\inicio.png">
+<br><br>
+
+
 
 **_[<b>Autor: Gonzalo Cozzo</b>]_**
 
