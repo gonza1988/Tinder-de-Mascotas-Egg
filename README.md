@@ -32,7 +32,7 @@
 - Librepdf
 
 Pantalla de inicio:
-<img src="src\main\resources\static\img\inicio.png">
+<img src="TinderMascotas\src\main\resources\static\img\inicio.png">
 <br><br>
 
 
