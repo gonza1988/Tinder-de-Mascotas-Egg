@@ -35,6 +35,9 @@ Pantalla de inicio:
 <img src="TinderMascotas\src\main\resources\static\img\inicio.png">
 <br><br>
 
+<p align="center" >
+     <img width="300" heigth="300" src="TinderMascotas\src\main\resources\static\img\Tinder video.tscproj">
+</p>
 
 
 **_[<b>Autor: Gonzalo Cozzo</b>]_**
