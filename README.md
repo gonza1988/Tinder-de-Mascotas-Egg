@@ -35,9 +35,31 @@ Pantalla de inicio:
 <img src="TinderMascotas\src\main\resources\static\img\inicio.png">
 <br><br>
 
-<p align="center" >
-     <img width="300" heigth="300" src="TinderMascotas\src\main\resources\static\img\Tinder video.tscproj">
-</p>
+Sistema de registro con verificación de datos:
+<img src="TinderMascotas\src\main\resources\static\img\registroMal.png">
+<br><br>
+
+Mensaje de registro exitoso:
+<img src="TinderMascotas\src\main\resources\static\img\registroExitoso.png">
+<br><br>
+
+Pantalla inicio de Logueo:
+<img src="TinderMascotas\src\main\resources\static\img\avisoLogueo.png">
+<br><br>
+
+Sección para editar perfil:
+<img src="TinderMascotas\src\main\resources\static\img\editarPerfil.png">
+<br><br>
+
+Sección de las mascotas del usuario:
+<img src="TinderMascotas\src\main\resources\static\img\mascotasUsuario.png">
+<br><br>
+
+Edición de las mascotas:
+<img src="TinderMascotas\src\main\resources\static\img\edicionMascota.png">
+<br><br>
+
+
 
 
 **_[<b>Autor: Gonzalo Cozzo</b>]_**
